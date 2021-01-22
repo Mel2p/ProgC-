@@ -1,0 +1,4 @@
+﻿  TSphere.cpp
+c:\users\melpe\source\repos\tpraycast\tpraycast\tsphere.h(12): error C2065: 'T' : identificateur non déclaré
+c:\users\melpe\source\repos\tpraycast\tpraycast\tsphere.h(12): error C2923: 'TPoint3D' : 'T' n'est pas un argument de type modèle valide pour le paramètre 'T'
+c:\users\melpe\source\repos\tpraycast\tpraycast\tsphere.cpp(6): error C2530: 'TSphere::center' : les références doivent être initialisées
